@@ -1,0 +1,10 @@
+# http://tools.seobook.com/robots-txt/
+
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /includes/
+Disallow: /js/
+
+Sitemap: https://sylvain-lissy.github.io/chouette-agence/sitemap.xml
