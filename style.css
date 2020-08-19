@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-     color: black;
+    color: black;
     opacity: 1;
 }
 
